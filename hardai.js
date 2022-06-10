@@ -1,3 +1,9 @@
+// 1 gebruik meer comments die meer beschrijven.
+// 2 bij level2.html heb ik tic - tac - toe maar er verschijnt geen bericht dat ik heb gewonnen.
+// bepaalde teksten staan in het engels in de game zwelf en sommige zijn nederlands. dit zijn twee tegen door elkaar heen.
+
+// tops:
+/* de code heeft een goede structuur waarin er goed genest is. verder zijn je variabel namen ook goed. je maakt gebruik van functies op de goede plek. */
 let origBoard;
 const HUMAN_PLAYER = 'X';
 const AI_PLAYER = 'O';
